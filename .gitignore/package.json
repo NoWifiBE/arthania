@@ -1,0 +1,16 @@
+{
+  "name": "arthania",
+  "version": "1.0.0",
+  "description": "arthania bot officiel :))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skatoux",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "youtube-audio-stream": "^0.2.0"
+  }
+}
